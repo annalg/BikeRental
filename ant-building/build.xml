@@ -1,0 +1,30 @@
+<project>
+
+    <target name="clean">
+        <delete dir="build"/>
+    </target>
+
+    <target name="compile">
+        <mkdir dir="build/classes"/>
+        <javac srcdir="src" destdir="build/classes" includeantruntime="false"/>
+    </target>
+
+    <target name="jar">
+        <mkdir dir="build/jar"/>
+        <jar destfile="build/jar/BikeRental.jar" basedir="build/classes">
+            <manifest>
+                <attribute name="Main-Class" value="app.BikeRentalApp"/>
+            </manifest>
+        </jar>
+    </target>
+
+    <target name="run">
+        <java jar="build/jar/BikeRental.jar" fork="true">
+
+	  <jvmarg value="-Dorg.apache.commons.logging.Log=org.apache.commons.logging.impl.Jdk14Logger"/>
+        <jvmarg value="-Djava.util.logging.config.file=mylogging.properties"/>
+      
+	  </java>  
+    </target>
+
+</project>
