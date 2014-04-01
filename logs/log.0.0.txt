@@ -1,0 +1,4773 @@
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-25T21:33:38</date>
+  <millis>1395779618328</millis>
+  <sequence>0</sequence>
+  <logger>app.BikeRentalApp</logger>
+  <level>INFO</level>
+  <class>BikeRentalApp</class>
+  <method>main()</method>
+  <thread>1</thread>
+  <message>App starts!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-25T21:33:38</date>
+  <millis>1395779618500</millis>
+  <sequence>1</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-25T21:33:38</date>
+  <millis>1395779618531</millis>
+  <sequence>2</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-25T21:33:38</date>
+  <millis>1395779618562</millis>
+  <sequence>3</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+<record>
+  <date>2014-03-25T21:33:38</date>
+  <millis>1395779618625</millis>
+  <sequence>4</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-25T21:33:38</date>
+  <millis>1395779618625</millis>
+  <sequence>5</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-25T21:33:38</date>
+  <millis>1395779618625</millis>
+  <sequence>6</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-25T21:33:38</date>
+  <millis>1395779618625</millis>
+  <sequence>7</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-25T21:33:38</date>
+  <millis>1395779618625</millis>
+  <sequence>8</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.MountainBike</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-25T21:33:38</date>
+  <millis>1395779618625</millis>
+  <sequence>9</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-25T21:33:38</date>
+  <millis>1395779618625</millis>
+  <sequence>10</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.ExtremeBike</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-25T21:33:38</date>
+  <millis>1395779618625</millis>
+  <sequence>11</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-25T21:33:38</date>
+  <millis>1395779618640</millis>
+  <sequence>12</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-25T21:33:38</date>
+  <millis>1395779618640</millis>
+  <sequence>13</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-25T21:33:38</date>
+  <millis>1395779618640</millis>
+  <sequence>14</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-25T21:33:38</date>
+  <millis>1395779618640</millis>
+  <sequence>15</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-25T21:33:38</date>
+  <millis>1395779618640</millis>
+  <sequence>16</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-25T21:33:38</date>
+  <millis>1395779618640</millis>
+  <sequence>17</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 3</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-26T12:59:17</date>
+  <millis>1395835157156</millis>
+  <sequence>0</sequence>
+  <logger>app.BikeRentalApp</logger>
+  <level>INFO</level>
+  <class>BikeRentalApp</class>
+  <method>main()</method>
+  <thread>1</thread>
+  <message>App starts!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-26T12:59:17</date>
+  <millis>1395835157375</millis>
+  <sequence>1</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-26T12:59:17</date>
+  <millis>1395835157421</millis>
+  <sequence>2</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-26T12:59:17</date>
+  <millis>1395835157453</millis>
+  <sequence>3</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+<record>
+  <date>2014-03-26T12:59:17</date>
+  <millis>1395835157515</millis>
+  <sequence>4</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-26T12:59:17</date>
+  <millis>1395835157515</millis>
+  <sequence>5</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-26T12:59:17</date>
+  <millis>1395835157515</millis>
+  <sequence>6</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-26T12:59:17</date>
+  <millis>1395835157531</millis>
+  <sequence>7</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-26T12:59:17</date>
+  <millis>1395835157531</millis>
+  <sequence>8</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.MountainBike</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-26T12:59:17</date>
+  <millis>1395835157531</millis>
+  <sequence>9</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-26T12:59:17</date>
+  <millis>1395835157531</millis>
+  <sequence>10</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.ExtremeBike</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-26T12:59:17</date>
+  <millis>1395835157531</millis>
+  <sequence>11</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-26T12:59:17</date>
+  <millis>1395835157546</millis>
+  <sequence>12</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-26T12:59:17</date>
+  <millis>1395835157546</millis>
+  <sequence>13</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-26T12:59:17</date>
+  <millis>1395835157546</millis>
+  <sequence>14</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-26T12:59:17</date>
+  <millis>1395835157546</millis>
+  <sequence>15</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-26T12:59:17</date>
+  <millis>1395835157546</millis>
+  <sequence>16</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-26T12:59:17</date>
+  <millis>1395835157546</millis>
+  <sequence>17</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 3</message>
+</record>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-26T13:19:51</date>
+  <millis>1395836391796</millis>
+  <sequence>0</sequence>
+  <logger>app.BikeRentalApp</logger>
+  <level>INFO</level>
+  <class>BikeRentalApp</class>
+  <method>main()</method>
+  <thread>1</thread>
+  <message>App starts!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-26T13:19:51</date>
+  <millis>1395836391937</millis>
+  <sequence>1</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-26T13:19:51</date>
+  <millis>1395836391968</millis>
+  <sequence>2</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-26T13:19:52</date>
+  <millis>1395836392000</millis>
+  <sequence>3</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+<record>
+  <date>2014-03-26T13:19:52</date>
+  <millis>1395836392062</millis>
+  <sequence>4</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-26T13:19:52</date>
+  <millis>1395836392062</millis>
+  <sequence>5</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-26T13:19:52</date>
+  <millis>1395836392062</millis>
+  <sequence>6</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-26T13:19:52</date>
+  <millis>1395836392062</millis>
+  <sequence>7</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-26T13:19:52</date>
+  <millis>1395836392062</millis>
+  <sequence>8</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.MountainBike</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-26T13:19:52</date>
+  <millis>1395836392062</millis>
+  <sequence>9</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-26T13:19:52</date>
+  <millis>1395836392062</millis>
+  <sequence>10</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.ExtremeBike</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-26T13:19:52</date>
+  <millis>1395836392062</millis>
+  <sequence>11</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-26T13:19:52</date>
+  <millis>1395836392078</millis>
+  <sequence>12</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-26T13:19:52</date>
+  <millis>1395836392078</millis>
+  <sequence>13</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-26T13:19:52</date>
+  <millis>1395836392078</millis>
+  <sequence>14</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-26T13:19:52</date>
+  <millis>1395836392078</millis>
+  <sequence>15</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-26T13:19:52</date>
+  <millis>1395836392078</millis>
+  <sequence>16</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-26T13:19:52</date>
+  <millis>1395836392078</millis>
+  <sequence>17</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 3</message>
+</record>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:39:02</date>
+  <millis>1396215542531</millis>
+  <sequence>0</sequence>
+  <logger>app.BikeRentalApp</logger>
+  <level>INFO</level>
+  <class>BikeRentalApp</class>
+  <method>main()</method>
+  <thread>1</thread>
+  <message>App starts!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:39:02</date>
+  <millis>1396215542765</millis>
+  <sequence>1</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:39:02</date>
+  <millis>1396215542796</millis>
+  <sequence>2</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:39:02</date>
+  <millis>1396215542828</millis>
+  <sequence>3</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:02</date>
+  <millis>1396215542875</millis>
+  <sequence>4</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:02</date>
+  <millis>1396215542875</millis>
+  <sequence>5</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:02</date>
+  <millis>1396215542875</millis>
+  <sequence>6</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:02</date>
+  <millis>1396215542875</millis>
+  <sequence>7</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:02</date>
+  <millis>1396215542890</millis>
+  <sequence>8</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.MountainBike</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:02</date>
+  <millis>1396215542921</millis>
+  <sequence>9</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:02</date>
+  <millis>1396215542921</millis>
+  <sequence>10</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.ExtremeBike</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:02</date>
+  <millis>1396215542921</millis>
+  <sequence>11</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:02</date>
+  <millis>1396215542937</millis>
+  <sequence>12</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:02</date>
+  <millis>1396215542937</millis>
+  <sequence>13</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:02</date>
+  <millis>1396215542937</millis>
+  <sequence>14</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:02</date>
+  <millis>1396215542937</millis>
+  <sequence>15</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:02</date>
+  <millis>1396215542937</millis>
+  <sequence>16</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:02</date>
+  <millis>1396215542937</millis>
+  <sequence>17</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 3</message>
+</record>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:39:32</date>
+  <millis>1396215572531</millis>
+  <sequence>0</sequence>
+  <logger>app.BikeRentalApp</logger>
+  <level>INFO</level>
+  <class>BikeRentalApp</class>
+  <method>main()</method>
+  <thread>1</thread>
+  <message>App starts!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:39:32</date>
+  <millis>1396215572656</millis>
+  <sequence>1</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:39:32</date>
+  <millis>1396215572687</millis>
+  <sequence>2</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:39:32</date>
+  <millis>1396215572718</millis>
+  <sequence>3</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:32</date>
+  <millis>1396215572781</millis>
+  <sequence>4</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:32</date>
+  <millis>1396215572781</millis>
+  <sequence>5</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:32</date>
+  <millis>1396215572781</millis>
+  <sequence>6</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:32</date>
+  <millis>1396215572781</millis>
+  <sequence>7</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:32</date>
+  <millis>1396215572781</millis>
+  <sequence>8</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.MountainBike</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:32</date>
+  <millis>1396215572781</millis>
+  <sequence>9</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:32</date>
+  <millis>1396215572781</millis>
+  <sequence>10</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.ExtremeBike</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:32</date>
+  <millis>1396215572781</millis>
+  <sequence>11</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:32</date>
+  <millis>1396215572796</millis>
+  <sequence>12</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:32</date>
+  <millis>1396215572796</millis>
+  <sequence>13</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:32</date>
+  <millis>1396215572796</millis>
+  <sequence>14</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:32</date>
+  <millis>1396215572796</millis>
+  <sequence>15</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:32</date>
+  <millis>1396215572796</millis>
+  <sequence>16</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:39:32</date>
+  <millis>1396215572796</millis>
+  <sequence>17</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 3</message>
+</record>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:40:08</date>
+  <millis>1396215608109</millis>
+  <sequence>0</sequence>
+  <logger>app.BikeRentalApp</logger>
+  <level>INFO</level>
+  <class>BikeRentalApp</class>
+  <method>main()</method>
+  <thread>1</thread>
+  <message>App starts!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:40:08</date>
+  <millis>1396215608234</millis>
+  <sequence>1</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:40:08</date>
+  <millis>1396215608265</millis>
+  <sequence>2</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:40:08</date>
+  <millis>1396215608296</millis>
+  <sequence>3</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+<record>
+  <date>2014-03-30T23:40:08</date>
+  <millis>1396215608343</millis>
+  <sequence>4</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:40:08</date>
+  <millis>1396215608343</millis>
+  <sequence>5</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:40:08</date>
+  <millis>1396215608359</millis>
+  <sequence>6</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:40:08</date>
+  <millis>1396215608359</millis>
+  <sequence>7</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:40:08</date>
+  <millis>1396215608359</millis>
+  <sequence>8</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.MountainBike</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:40:08</date>
+  <millis>1396215608359</millis>
+  <sequence>9</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:40:08</date>
+  <millis>1396215608359</millis>
+  <sequence>10</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.ExtremeBike</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:40:08</date>
+  <millis>1396215608359</millis>
+  <sequence>11</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:40:08</date>
+  <millis>1396215608375</millis>
+  <sequence>12</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:40:08</date>
+  <millis>1396215608375</millis>
+  <sequence>13</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:40:08</date>
+  <millis>1396215608375</millis>
+  <sequence>14</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:40:08</date>
+  <millis>1396215608375</millis>
+  <sequence>15</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:40:08</date>
+  <millis>1396215608375</millis>
+  <sequence>16</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:40:08</date>
+  <millis>1396215608375</millis>
+  <sequence>17</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 3</message>
+</record>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:45:56</date>
+  <millis>1396215956859</millis>
+  <sequence>0</sequence>
+  <logger>app.BikeRentalApp</logger>
+  <level>INFO</level>
+  <class>BikeRentalApp</class>
+  <method>main()</method>
+  <thread>1</thread>
+  <message>App starts!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:45:56</date>
+  <millis>1396215956984</millis>
+  <sequence>1</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:45:57</date>
+  <millis>1396215957015</millis>
+  <sequence>2</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:45:57</date>
+  <millis>1396215957046</millis>
+  <sequence>3</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+<record>
+  <date>2014-03-30T23:45:57</date>
+  <millis>1396215957109</millis>
+  <sequence>4</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:45:57</date>
+  <millis>1396215957109</millis>
+  <sequence>5</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:45:57</date>
+  <millis>1396215957109</millis>
+  <sequence>6</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:45:57</date>
+  <millis>1396215957109</millis>
+  <sequence>7</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:45:57</date>
+  <millis>1396215957109</millis>
+  <sequence>8</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.MountainBike</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:45:57</date>
+  <millis>1396215957109</millis>
+  <sequence>9</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:45:57</date>
+  <millis>1396215957109</millis>
+  <sequence>10</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.ExtremeBike</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:45:57</date>
+  <millis>1396215957109</millis>
+  <sequence>11</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:45:57</date>
+  <millis>1396215957125</millis>
+  <sequence>12</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:45:57</date>
+  <millis>1396215957125</millis>
+  <sequence>13</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:45:57</date>
+  <millis>1396215957125</millis>
+  <sequence>14</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:45:57</date>
+  <millis>1396215957125</millis>
+  <sequence>15</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:45:57</date>
+  <millis>1396215957125</millis>
+  <sequence>16</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:45:57</date>
+  <millis>1396215957125</millis>
+  <sequence>17</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 3</message>
+</record>
+<record>
+  <date>2014-03-30T23:46:37</date>
+  <millis>1396215997171</millis>
+  <sequence>18</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>getAllRecords</method>
+  <thread>1</thread>
+  <message>Entering getAllRecords()</message>
+</record>
+<record>
+  <date>2014-03-30T23:46:37</date>
+  <millis>1396215997218</millis>
+  <sequence>19</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>getAllRecords</method>
+  <thread>1</thread>
+  <message>Exiting getAllRecords()</message>
+</record>
+<record>
+  <date>2014-03-30T23:46:37</date>
+  <millis>1396215997218</millis>
+  <sequence>20</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>getAllRecords</method>
+  <thread>1</thread>
+  <message>Entering getAllRecords()</message>
+</record>
+<record>
+  <date>2014-03-30T23:46:37</date>
+  <millis>1396215997218</millis>
+  <sequence>21</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>getAllRecords</method>
+  <thread>1</thread>
+  <message>Exiting getAllRecords()</message>
+</record>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:46:54</date>
+  <millis>1396216014375</millis>
+  <sequence>0</sequence>
+  <logger>app.BikeRentalApp</logger>
+  <level>INFO</level>
+  <class>BikeRentalApp</class>
+  <method>main()</method>
+  <thread>1</thread>
+  <message>App starts!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:46:54</date>
+  <millis>1396216014500</millis>
+  <sequence>1</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:46:54</date>
+  <millis>1396216014531</millis>
+  <sequence>2</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:46:54</date>
+  <millis>1396216014562</millis>
+  <sequence>3</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+<record>
+  <date>2014-03-30T23:46:54</date>
+  <millis>1396216014609</millis>
+  <sequence>4</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:46:54</date>
+  <millis>1396216014609</millis>
+  <sequence>5</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:46:54</date>
+  <millis>1396216014609</millis>
+  <sequence>6</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:46:54</date>
+  <millis>1396216014625</millis>
+  <sequence>7</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:46:54</date>
+  <millis>1396216014625</millis>
+  <sequence>8</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.MountainBike</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:46:54</date>
+  <millis>1396216014625</millis>
+  <sequence>9</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:46:54</date>
+  <millis>1396216014625</millis>
+  <sequence>10</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.ExtremeBike</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:46:54</date>
+  <millis>1396216014625</millis>
+  <sequence>11</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:46:54</date>
+  <millis>1396216014640</millis>
+  <sequence>12</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:46:54</date>
+  <millis>1396216014640</millis>
+  <sequence>13</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:46:54</date>
+  <millis>1396216014640</millis>
+  <sequence>14</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:46:54</date>
+  <millis>1396216014640</millis>
+  <sequence>15</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:46:54</date>
+  <millis>1396216014640</millis>
+  <sequence>16</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:46:54</date>
+  <millis>1396216014640</millis>
+  <sequence>17</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 3</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:50:03</date>
+  <millis>1396216203390</millis>
+  <sequence>0</sequence>
+  <logger>app.BikeRentalApp</logger>
+  <level>INFO</level>
+  <class>BikeRentalApp</class>
+  <method>main()</method>
+  <thread>1</thread>
+  <message>App starts!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:50:03</date>
+  <millis>1396216203515</millis>
+  <sequence>1</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:50:03</date>
+  <millis>1396216203546</millis>
+  <sequence>2</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:50:03</date>
+  <millis>1396216203578</millis>
+  <sequence>3</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+<record>
+  <date>2014-03-30T23:50:03</date>
+  <millis>1396216203640</millis>
+  <sequence>4</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:50:03</date>
+  <millis>1396216203640</millis>
+  <sequence>5</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:50:03</date>
+  <millis>1396216203640</millis>
+  <sequence>6</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:50:03</date>
+  <millis>1396216203640</millis>
+  <sequence>7</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:50:03</date>
+  <millis>1396216203640</millis>
+  <sequence>8</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.MountainBike</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:50:03</date>
+  <millis>1396216203640</millis>
+  <sequence>9</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:50:03</date>
+  <millis>1396216203640</millis>
+  <sequence>10</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.ExtremeBike</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:50:03</date>
+  <millis>1396216203640</millis>
+  <sequence>11</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:50:03</date>
+  <millis>1396216203656</millis>
+  <sequence>12</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:50:03</date>
+  <millis>1396216203656</millis>
+  <sequence>13</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:50:03</date>
+  <millis>1396216203656</millis>
+  <sequence>14</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:50:03</date>
+  <millis>1396216203656</millis>
+  <sequence>15</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:50:03</date>
+  <millis>1396216203656</millis>
+  <sequence>16</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:50:03</date>
+  <millis>1396216203656</millis>
+  <sequence>17</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 3</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:51:27</date>
+  <millis>1396216287000</millis>
+  <sequence>0</sequence>
+  <logger>app.BikeRentalApp</logger>
+  <level>INFO</level>
+  <class>BikeRentalApp</class>
+  <method>main()</method>
+  <thread>1</thread>
+  <message>App starts!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:51:27</date>
+  <millis>1396216287140</millis>
+  <sequence>1</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:51:27</date>
+  <millis>1396216287156</millis>
+  <sequence>2</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:51:27</date>
+  <millis>1396216287187</millis>
+  <sequence>3</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+<record>
+  <date>2014-03-30T23:51:27</date>
+  <millis>1396216287250</millis>
+  <sequence>4</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:51:27</date>
+  <millis>1396216287250</millis>
+  <sequence>5</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:51:27</date>
+  <millis>1396216287250</millis>
+  <sequence>6</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:51:27</date>
+  <millis>1396216287250</millis>
+  <sequence>7</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:51:27</date>
+  <millis>1396216287250</millis>
+  <sequence>8</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.MountainBike</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:51:27</date>
+  <millis>1396216287250</millis>
+  <sequence>9</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:51:27</date>
+  <millis>1396216287250</millis>
+  <sequence>10</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.ExtremeBike</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:51:27</date>
+  <millis>1396216287250</millis>
+  <sequence>11</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:51:27</date>
+  <millis>1396216287265</millis>
+  <sequence>12</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:51:27</date>
+  <millis>1396216287265</millis>
+  <sequence>13</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:51:27</date>
+  <millis>1396216287265</millis>
+  <sequence>14</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:51:27</date>
+  <millis>1396216287265</millis>
+  <sequence>15</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:51:27</date>
+  <millis>1396216287265</millis>
+  <sequence>16</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:51:27</date>
+  <millis>1396216287265</millis>
+  <sequence>17</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 3</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:52:13</date>
+  <millis>1396216333171</millis>
+  <sequence>0</sequence>
+  <logger>app.BikeRentalApp</logger>
+  <level>INFO</level>
+  <class>BikeRentalApp</class>
+  <method>main()</method>
+  <thread>1</thread>
+  <message>App starts!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:52:13</date>
+  <millis>1396216333296</millis>
+  <sequence>1</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:52:13</date>
+  <millis>1396216333328</millis>
+  <sequence>2</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:52:13</date>
+  <millis>1396216333359</millis>
+  <sequence>3</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+<record>
+  <date>2014-03-30T23:52:13</date>
+  <millis>1396216333421</millis>
+  <sequence>4</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:52:13</date>
+  <millis>1396216333421</millis>
+  <sequence>5</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:52:13</date>
+  <millis>1396216333437</millis>
+  <sequence>6</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:52:13</date>
+  <millis>1396216333437</millis>
+  <sequence>7</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:52:13</date>
+  <millis>1396216333437</millis>
+  <sequence>8</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.MountainBike</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:52:13</date>
+  <millis>1396216333437</millis>
+  <sequence>9</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:52:13</date>
+  <millis>1396216333437</millis>
+  <sequence>10</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.ExtremeBike</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:52:13</date>
+  <millis>1396216333437</millis>
+  <sequence>11</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:52:13</date>
+  <millis>1396216333453</millis>
+  <sequence>12</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:52:13</date>
+  <millis>1396216333453</millis>
+  <sequence>13</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:52:13</date>
+  <millis>1396216333453</millis>
+  <sequence>14</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:52:13</date>
+  <millis>1396216333453</millis>
+  <sequence>15</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:52:13</date>
+  <millis>1396216333453</millis>
+  <sequence>16</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:52:13</date>
+  <millis>1396216333453</millis>
+  <sequence>17</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 3</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:54:10</date>
+  <millis>1396216450203</millis>
+  <sequence>0</sequence>
+  <logger>app.BikeRentalApp</logger>
+  <level>INFO</level>
+  <class>BikeRentalApp</class>
+  <method>main()</method>
+  <thread>1</thread>
+  <message>App starts!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:54:10</date>
+  <millis>1396216450343</millis>
+  <sequence>1</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:54:10</date>
+  <millis>1396216450375</millis>
+  <sequence>2</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:54:10</date>
+  <millis>1396216450406</millis>
+  <sequence>3</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:10</date>
+  <millis>1396216450453</millis>
+  <sequence>4</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:10</date>
+  <millis>1396216450453</millis>
+  <sequence>5</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:10</date>
+  <millis>1396216450468</millis>
+  <sequence>6</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:10</date>
+  <millis>1396216450468</millis>
+  <sequence>7</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:10</date>
+  <millis>1396216450468</millis>
+  <sequence>8</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.MountainBike</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:10</date>
+  <millis>1396216450468</millis>
+  <sequence>9</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:10</date>
+  <millis>1396216450468</millis>
+  <sequence>10</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.ExtremeBike</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:10</date>
+  <millis>1396216450468</millis>
+  <sequence>11</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:10</date>
+  <millis>1396216450468</millis>
+  <sequence>12</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:10</date>
+  <millis>1396216450468</millis>
+  <sequence>13</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:10</date>
+  <millis>1396216450484</millis>
+  <sequence>14</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:10</date>
+  <millis>1396216450484</millis>
+  <sequence>15</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:10</date>
+  <millis>1396216450484</millis>
+  <sequence>16</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:10</date>
+  <millis>1396216450484</millis>
+  <sequence>17</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 3</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:54:40</date>
+  <millis>1396216480375</millis>
+  <sequence>0</sequence>
+  <logger>app.BikeRentalApp</logger>
+  <level>INFO</level>
+  <class>BikeRentalApp</class>
+  <method>main()</method>
+  <thread>1</thread>
+  <message>App starts!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:54:40</date>
+  <millis>1396216480500</millis>
+  <sequence>1</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:54:40</date>
+  <millis>1396216480531</millis>
+  <sequence>2</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-30T23:54:40</date>
+  <millis>1396216480562</millis>
+  <sequence>3</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:40</date>
+  <millis>1396216480609</millis>
+  <sequence>4</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:40</date>
+  <millis>1396216480609</millis>
+  <sequence>5</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:40</date>
+  <millis>1396216480609</millis>
+  <sequence>6</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:40</date>
+  <millis>1396216480609</millis>
+  <sequence>7</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:40</date>
+  <millis>1396216480625</millis>
+  <sequence>8</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.MountainBike</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:40</date>
+  <millis>1396216480625</millis>
+  <sequence>9</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:40</date>
+  <millis>1396216480625</millis>
+  <sequence>10</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.ExtremeBike</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:40</date>
+  <millis>1396216480625</millis>
+  <sequence>11</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:40</date>
+  <millis>1396216480625</millis>
+  <sequence>12</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:40</date>
+  <millis>1396216480625</millis>
+  <sequence>13</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:40</date>
+  <millis>1396216480625</millis>
+  <sequence>14</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:40</date>
+  <millis>1396216480625</millis>
+  <sequence>15</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:40</date>
+  <millis>1396216480625</millis>
+  <sequence>16</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-30T23:54:40</date>
+  <millis>1396216480625</millis>
+  <sequence>17</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 3</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T00:21:35</date>
+  <millis>1396218095281</millis>
+  <sequence>0</sequence>
+  <logger>app.BikeRentalApp</logger>
+  <level>INFO</level>
+  <class>BikeRentalApp</class>
+  <method>main()</method>
+  <thread>1</thread>
+  <message>App starts!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T00:21:35</date>
+  <millis>1396218095515</millis>
+  <sequence>1</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T00:21:35</date>
+  <millis>1396218095546</millis>
+  <sequence>2</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T00:21:35</date>
+  <millis>1396218095593</millis>
+  <sequence>3</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+<record>
+  <date>2014-03-31T00:21:35</date>
+  <millis>1396218095656</millis>
+  <sequence>4</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-31T00:21:35</date>
+  <millis>1396218095656</millis>
+  <sequence>5</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:21:35</date>
+  <millis>1396218095656</millis>
+  <sequence>6</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:21:35</date>
+  <millis>1396218095656</millis>
+  <sequence>7</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T00:21:35</date>
+  <millis>1396218095656</millis>
+  <sequence>8</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.MountainBike</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-31T00:21:35</date>
+  <millis>1396218095656</millis>
+  <sequence>9</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:21:35</date>
+  <millis>1396218095656</millis>
+  <sequence>10</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.ExtremeBike</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:21:35</date>
+  <millis>1396218095656</millis>
+  <sequence>11</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T00:21:35</date>
+  <millis>1396218095671</millis>
+  <sequence>12</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-31T00:21:35</date>
+  <millis>1396218095671</millis>
+  <sequence>13</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:21:35</date>
+  <millis>1396218095671</millis>
+  <sequence>14</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:21:35</date>
+  <millis>1396218095671</millis>
+  <sequence>15</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T00:21:35</date>
+  <millis>1396218095671</millis>
+  <sequence>16</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T00:21:35</date>
+  <millis>1396218095671</millis>
+  <sequence>17</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 3</message>
+</record>
+<record>
+  <date>2014-03-31T00:21:59</date>
+  <millis>1396218119343</millis>
+  <sequence>18</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>getRecord</method>
+  <thread>1</thread>
+  <message>Entering getRecord()</message>
+</record>
+<record>
+  <date>2014-03-31T00:21:59</date>
+  <millis>1396218119359</millis>
+  <sequence>19</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>getRecord</method>
+  <thread>1</thread>
+  <message>Exiting getRecord()</message>
+</record>
+<record>
+  <date>2014-03-31T00:22:08</date>
+  <millis>1396218128781</millis>
+  <sequence>20</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>getAllRecords</method>
+  <thread>1</thread>
+  <message>Entering getAllRecords()</message>
+</record>
+<record>
+  <date>2014-03-31T00:22:08</date>
+  <millis>1396218128781</millis>
+  <sequence>21</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>getAllRecords</method>
+  <thread>1</thread>
+  <message>Exiting getAllRecords()</message>
+</record>
+<record>
+  <date>2014-03-31T00:22:08</date>
+  <millis>1396218128781</millis>
+  <sequence>22</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T00:22:08</date>
+  <millis>1396218128781</millis>
+  <sequence>23</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 3</message>
+</record>
+<record>
+  <date>2014-03-31T00:22:11</date>
+  <millis>1396218131312</millis>
+  <sequence>24</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>getAllRecords</method>
+  <thread>1</thread>
+  <message>Entering getAllRecords()</message>
+</record>
+<record>
+  <date>2014-03-31T00:22:11</date>
+  <millis>1396218131328</millis>
+  <sequence>25</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>getAllRecords</method>
+  <thread>1</thread>
+  <message>Exiting getAllRecords()</message>
+</record>
+<record>
+  <date>2014-03-31T00:22:13</date>
+  <millis>1396218133718</millis>
+  <sequence>26</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>getAllRecords</method>
+  <thread>1</thread>
+  <message>Entering getAllRecords()</message>
+</record>
+<record>
+  <date>2014-03-31T00:22:13</date>
+  <millis>1396218133718</millis>
+  <sequence>27</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>getAllRecords</method>
+  <thread>1</thread>
+  <message>Exiting getAllRecords()</message>
+</record>
+<record>
+  <date>2014-03-31T00:22:13</date>
+  <millis>1396218133718</millis>
+  <sequence>28</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>getAllRecords</method>
+  <thread>1</thread>
+  <message>Entering getAllRecords()</message>
+</record>
+<record>
+  <date>2014-03-31T00:22:13</date>
+  <millis>1396218133734</millis>
+  <sequence>29</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>getAllRecords</method>
+  <thread>1</thread>
+  <message>Exiting getAllRecords()</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T00:24:09</date>
+  <millis>1396218249703</millis>
+  <sequence>0</sequence>
+  <logger>app.BikeRentalApp</logger>
+  <level>INFO</level>
+  <class>BikeRentalApp</class>
+  <method>main()</method>
+  <thread>1</thread>
+  <message>App starts!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T00:24:09</date>
+  <millis>1396218249828</millis>
+  <sequence>1</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T00:24:09</date>
+  <millis>1396218249859</millis>
+  <sequence>2</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T00:24:09</date>
+  <millis>1396218249890</millis>
+  <sequence>3</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+<record>
+  <date>2014-03-31T00:24:09</date>
+  <millis>1396218249953</millis>
+  <sequence>4</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-31T00:24:09</date>
+  <millis>1396218249953</millis>
+  <sequence>5</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:24:09</date>
+  <millis>1396218249953</millis>
+  <sequence>6</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:24:09</date>
+  <millis>1396218249953</millis>
+  <sequence>7</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T00:24:09</date>
+  <millis>1396218249953</millis>
+  <sequence>8</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.MountainBike</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-31T00:24:09</date>
+  <millis>1396218249953</millis>
+  <sequence>9</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:24:09</date>
+  <millis>1396218249953</millis>
+  <sequence>10</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.ExtremeBike</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:24:09</date>
+  <millis>1396218249953</millis>
+  <sequence>11</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T00:24:09</date>
+  <millis>1396218249968</millis>
+  <sequence>12</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-31T00:24:09</date>
+  <millis>1396218249968</millis>
+  <sequence>13</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:24:09</date>
+  <millis>1396218249968</millis>
+  <sequence>14</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:24:09</date>
+  <millis>1396218249968</millis>
+  <sequence>15</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T00:24:09</date>
+  <millis>1396218249968</millis>
+  <sequence>16</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T00:24:09</date>
+  <millis>1396218249968</millis>
+  <sequence>17</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 3</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T00:26:17</date>
+  <millis>1396218377875</millis>
+  <sequence>0</sequence>
+  <logger>app.BikeRentalApp</logger>
+  <level>INFO</level>
+  <class>BikeRentalApp</class>
+  <method>main()</method>
+  <thread>1</thread>
+  <message>App starts!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T00:26:18</date>
+  <millis>1396218378000</millis>
+  <sequence>1</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T00:26:18</date>
+  <millis>1396218378031</millis>
+  <sequence>2</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T00:26:18</date>
+  <millis>1396218378062</millis>
+  <sequence>3</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+<record>
+  <date>2014-03-31T00:26:18</date>
+  <millis>1396218378109</millis>
+  <sequence>4</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-31T00:26:18</date>
+  <millis>1396218378109</millis>
+  <sequence>5</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:26:18</date>
+  <millis>1396218378109</millis>
+  <sequence>6</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:26:18</date>
+  <millis>1396218378109</millis>
+  <sequence>7</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T00:26:18</date>
+  <millis>1396218378125</millis>
+  <sequence>8</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.MountainBike</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-31T00:26:18</date>
+  <millis>1396218378125</millis>
+  <sequence>9</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:26:18</date>
+  <millis>1396218378125</millis>
+  <sequence>10</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.ExtremeBike</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:26:18</date>
+  <millis>1396218378125</millis>
+  <sequence>11</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T00:26:18</date>
+  <millis>1396218378125</millis>
+  <sequence>12</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-31T00:26:18</date>
+  <millis>1396218378125</millis>
+  <sequence>13</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:26:18</date>
+  <millis>1396218378125</millis>
+  <sequence>14</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:26:18</date>
+  <millis>1396218378125</millis>
+  <sequence>15</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T00:26:18</date>
+  <millis>1396218378125</millis>
+  <sequence>16</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T00:26:18</date>
+  <millis>1396218378125</millis>
+  <sequence>17</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 3</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T00:28:18</date>
+  <millis>1396218498171</millis>
+  <sequence>0</sequence>
+  <logger>app.BikeRentalApp</logger>
+  <level>INFO</level>
+  <class>BikeRentalApp</class>
+  <method>main()</method>
+  <thread>1</thread>
+  <message>App starts!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T00:28:18</date>
+  <millis>1396218498296</millis>
+  <sequence>1</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T00:28:18</date>
+  <millis>1396218498328</millis>
+  <sequence>2</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T00:28:18</date>
+  <millis>1396218498359</millis>
+  <sequence>3</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+<record>
+  <date>2014-03-31T00:28:18</date>
+  <millis>1396218498406</millis>
+  <sequence>4</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-31T00:28:18</date>
+  <millis>1396218498406</millis>
+  <sequence>5</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:28:18</date>
+  <millis>1396218498421</millis>
+  <sequence>6</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:28:18</date>
+  <millis>1396218498421</millis>
+  <sequence>7</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T00:28:18</date>
+  <millis>1396218498421</millis>
+  <sequence>8</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.MountainBike</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-31T00:28:18</date>
+  <millis>1396218498421</millis>
+  <sequence>9</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:28:18</date>
+  <millis>1396218498421</millis>
+  <sequence>10</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.ExtremeBike</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:28:18</date>
+  <millis>1396218498421</millis>
+  <sequence>11</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T00:28:18</date>
+  <millis>1396218498437</millis>
+  <sequence>12</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-31T00:28:18</date>
+  <millis>1396218498437</millis>
+  <sequence>13</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:28:18</date>
+  <millis>1396218498437</millis>
+  <sequence>14</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:28:18</date>
+  <millis>1396218498437</millis>
+  <sequence>15</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T00:28:18</date>
+  <millis>1396218498437</millis>
+  <sequence>16</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T00:28:18</date>
+  <millis>1396218498437</millis>
+  <sequence>17</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 3</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T00:31:09</date>
+  <millis>1396218669093</millis>
+  <sequence>0</sequence>
+  <logger>app.BikeRentalApp</logger>
+  <level>INFO</level>
+  <class>BikeRentalApp</class>
+  <method>main()</method>
+  <thread>1</thread>
+  <message>App starts!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T00:31:09</date>
+  <millis>1396218669234</millis>
+  <sequence>1</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T00:31:09</date>
+  <millis>1396218669250</millis>
+  <sequence>2</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T00:31:09</date>
+  <millis>1396218669281</millis>
+  <sequence>3</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:09</date>
+  <millis>1396218669343</millis>
+  <sequence>4</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:09</date>
+  <millis>1396218669343</millis>
+  <sequence>5</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:09</date>
+  <millis>1396218669343</millis>
+  <sequence>6</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:09</date>
+  <millis>1396218669343</millis>
+  <sequence>7</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:09</date>
+  <millis>1396218669359</millis>
+  <sequence>8</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.MountainBike</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:09</date>
+  <millis>1396218669359</millis>
+  <sequence>9</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:09</date>
+  <millis>1396218669359</millis>
+  <sequence>10</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.ExtremeBike</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:09</date>
+  <millis>1396218669359</millis>
+  <sequence>11</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:09</date>
+  <millis>1396218669359</millis>
+  <sequence>12</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:09</date>
+  <millis>1396218669359</millis>
+  <sequence>13</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:09</date>
+  <millis>1396218669359</millis>
+  <sequence>14</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:09</date>
+  <millis>1396218669359</millis>
+  <sequence>15</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:09</date>
+  <millis>1396218669359</millis>
+  <sequence>16</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:09</date>
+  <millis>1396218669359</millis>
+  <sequence>17</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 3</message>
+</record>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T00:31:39</date>
+  <millis>1396218699406</millis>
+  <sequence>0</sequence>
+  <logger>app.BikeRentalApp</logger>
+  <level>INFO</level>
+  <class>BikeRentalApp</class>
+  <method>main()</method>
+  <thread>1</thread>
+  <message>App starts!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T00:31:39</date>
+  <millis>1396218699531</millis>
+  <sequence>1</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T00:31:39</date>
+  <millis>1396218699562</millis>
+  <sequence>2</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T00:31:39</date>
+  <millis>1396218699593</millis>
+  <sequence>3</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:39</date>
+  <millis>1396218699640</millis>
+  <sequence>4</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:39</date>
+  <millis>1396218699640</millis>
+  <sequence>5</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:39</date>
+  <millis>1396218699640</millis>
+  <sequence>6</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:39</date>
+  <millis>1396218699640</millis>
+  <sequence>7</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:39</date>
+  <millis>1396218699656</millis>
+  <sequence>8</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.MountainBike</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:39</date>
+  <millis>1396218699656</millis>
+  <sequence>9</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:39</date>
+  <millis>1396218699656</millis>
+  <sequence>10</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.ExtremeBike</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:39</date>
+  <millis>1396218699656</millis>
+  <sequence>11</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:39</date>
+  <millis>1396218699656</millis>
+  <sequence>12</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:39</date>
+  <millis>1396218699656</millis>
+  <sequence>13</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:39</date>
+  <millis>1396218699656</millis>
+  <sequence>14</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:39</date>
+  <millis>1396218699656</millis>
+  <sequence>15</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:39</date>
+  <millis>1396218699656</millis>
+  <sequence>16</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:39</date>
+  <millis>1396218699656</millis>
+  <sequence>17</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 3</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:43</date>
+  <millis>1396218703875</millis>
+  <sequence>18</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>getAllRecords</method>
+  <thread>1</thread>
+  <message>Entering getAllRecords()</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:43</date>
+  <millis>1396218703875</millis>
+  <sequence>19</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>getAllRecords</method>
+  <thread>1</thread>
+  <message>Exiting getAllRecords()</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:43</date>
+  <millis>1396218703875</millis>
+  <sequence>20</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>getAllRecords</method>
+  <thread>1</thread>
+  <message>Entering getAllRecords()</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:43</date>
+  <millis>1396218703875</millis>
+  <sequence>21</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>getAllRecords</method>
+  <thread>1</thread>
+  <message>Exiting getAllRecords()</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:49</date>
+  <millis>1396218709671</millis>
+  <sequence>22</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>getAllRecords</method>
+  <thread>1</thread>
+  <message>Entering getAllRecords()</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:49</date>
+  <millis>1396218709671</millis>
+  <sequence>23</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>getAllRecords</method>
+  <thread>1</thread>
+  <message>Exiting getAllRecords()</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:49</date>
+  <millis>1396218709671</millis>
+  <sequence>24</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>getRecord</method>
+  <thread>1</thread>
+  <message>Entering getRecord()</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:49</date>
+  <millis>1396218709671</millis>
+  <sequence>25</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>getRecord</method>
+  <thread>1</thread>
+  <message>Exiting getRecord()</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:53</date>
+  <millis>1396218713937</millis>
+  <sequence>26</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>getAllRecords</method>
+  <thread>1</thread>
+  <message>Entering getAllRecords()</message>
+</record>
+<record>
+  <date>2014-03-31T00:31:53</date>
+  <millis>1396218713937</millis>
+  <sequence>27</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>getAllRecords</method>
+  <thread>1</thread>
+  <message>Exiting getAllRecords()</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T13:50:49</date>
+  <millis>1396266649750</millis>
+  <sequence>0</sequence>
+  <logger>app.BikeRentalApp</logger>
+  <level>INFO</level>
+  <class>BikeRentalApp</class>
+  <method>main()</method>
+  <thread>1</thread>
+  <message>App starts!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T13:50:50</date>
+  <millis>1396266650578</millis>
+  <sequence>1</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T13:50:50</date>
+  <millis>1396266650625</millis>
+  <sequence>2</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-03-31T13:50:50</date>
+  <millis>1396266650671</millis>
+  <sequence>3</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+<record>
+  <date>2014-03-31T13:50:51</date>
+  <millis>1396266651000</millis>
+  <sequence>4</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-31T13:50:51</date>
+  <millis>1396266651000</millis>
+  <sequence>5</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T13:50:51</date>
+  <millis>1396266651000</millis>
+  <sequence>6</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T13:50:51</date>
+  <millis>1396266651000</millis>
+  <sequence>7</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T13:50:51</date>
+  <millis>1396266651000</millis>
+  <sequence>8</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.MountainBike</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-31T13:50:51</date>
+  <millis>1396266651015</millis>
+  <sequence>9</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T13:50:51</date>
+  <millis>1396266651015</millis>
+  <sequence>10</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.ExtremeBike</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T13:50:51</date>
+  <millis>1396266651015</millis>
+  <sequence>11</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T13:50:51</date>
+  <millis>1396266651046</millis>
+  <sequence>12</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-03-31T13:50:51</date>
+  <millis>1396266651046</millis>
+  <sequence>13</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T13:50:51</date>
+  <millis>1396266651046</millis>
+  <sequence>14</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-03-31T13:50:51</date>
+  <millis>1396266651046</millis>
+  <sequence>15</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T13:50:51</date>
+  <millis>1396266651046</millis>
+  <sequence>16</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-03-31T13:50:51</date>
+  <millis>1396266651046</millis>
+  <sequence>17</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 3</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-04-01T20:46:41</date>
+  <millis>1396378001546</millis>
+  <sequence>0</sequence>
+  <logger>app.BikeRentalApp</logger>
+  <level>INFO</level>
+  <class>BikeRentalApp</class>
+  <method>main()</method>
+  <thread>1</thread>
+  <message>App starts!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-04-01T20:46:42</date>
+  <millis>1396378002046</millis>
+  <sequence>1</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-04-01T20:46:42</date>
+  <millis>1396378002093</millis>
+  <sequence>2</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-04-01T20:46:42</date>
+  <millis>1396378002140</millis>
+  <sequence>3</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>INFO</level>
+  <class>logic.RecordManager</class>
+  <method>RecordManager()</method>
+  <thread>1</thread>
+  <message>java.util.ArrayList created.</message>
+</record>
+<record>
+  <date>2014-04-01T20:46:42</date>
+  <millis>1396378002265</millis>
+  <sequence>4</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-04-01T20:46:42</date>
+  <millis>1396378002265</millis>
+  <sequence>5</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-04-01T20:46:42</date>
+  <millis>1396378002265</millis>
+  <sequence>6</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Client</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-04-01T20:46:42</date>
+  <millis>1396378002265</millis>
+  <sequence>7</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-04-01T20:46:42</date>
+  <millis>1396378002265</millis>
+  <sequence>8</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.MountainBike</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-04-01T20:46:42</date>
+  <millis>1396378002281</millis>
+  <sequence>9</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-04-01T20:46:42</date>
+  <millis>1396378002281</millis>
+  <sequence>10</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.ExtremeBike</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-04-01T20:46:42</date>
+  <millis>1396378002281</millis>
+  <sequence>11</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-04-01T20:46:42</date>
+  <millis>1396378002328</millis>
+  <sequence>12</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 0</message>
+</record>
+<record>
+  <date>2014-04-01T20:46:42</date>
+  <millis>1396378002328</millis>
+  <sequence>13</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-04-01T20:46:42</date>
+  <millis>1396378002328</millis>
+  <sequence>14</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 1</message>
+</record>
+<record>
+  <date>2014-04-01T20:46:42</date>
+  <millis>1396378002328</millis>
+  <sequence>15</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-04-01T20:46:42</date>
+  <millis>1396378002328</millis>
+  <sequence>16</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() model.Reservation</method>
+  <thread>1</thread>
+  <message>size: 2</message>
+</record>
+<record>
+  <date>2014-04-01T20:46:42</date>
+  <millis>1396378002328</millis>
+  <sequence>17</sequence>
+  <logger>logic.RecordManager</logger>
+  <level>CONFIG</level>
+  <class>logic.RecordManager</class>
+  <method>add() </method>
+  <thread>1</thread>
+  <message>size: 3</message>
+</record>
+</log>

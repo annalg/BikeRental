@@ -1,6 +1,5 @@
 # ignore .settings, bin and log directory
 .settings/
 bin/
-logs/
 .classpath
 .project
