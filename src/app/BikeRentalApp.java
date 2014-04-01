@@ -501,11 +501,11 @@ public class BikeRentalApp {
 		}
 		Date f_date_start, f_date_end;
 		try{
-			System.out.println("Podaj date pocz¹tkow¹ (rrrr/mm/dd): ");
+			System.out.println("Podaj date poczatkowa (rrrr/mm/dd): ");
 			String d_start = input.next();
 			DateFormat df= new SimpleDateFormat("yyyy/MM/dd");
 			f_date_start = df.parse(d_start);
-			System.out.println("Podaj date koñcow¹ (rrrr/mm/dd): ");
+			System.out.println("Podaj date koncowa (rrrr/mm/dd): ");
 			String d_end = input.next();
 			f_date_end = df.parse(d_end);
 			if (f_date_end.before(f_date_start)){
@@ -554,11 +554,50 @@ public class BikeRentalApp {
 				reserv.setStatus(ReservationStatus.ANULOWANO);
 				break;
 			case W_REALIZACJI:
-				reserv.setStatus(ReservationStatus.W_REALIZACJI);
+				Date f_date_start;
+				try{
+					System.out.println("Podaj date wypozyczenia (rrrr/mm/dd): ");
+					String d_start = input.next();
+					DateFormat df= new SimpleDateFormat("yyyy/MM/dd");
+					f_date_start = df.parse(d_start);
+				}
+				catch (ParseException e){
+					logger.logp(Level.SEVERE, "BikeRentalApp", "addReservation()", "Type of exception: " + e.getMessage());
+					System.out.println("Zly format daty...!"); 
+					return;
+				}
+				if (f_date_start.before(reserv.getDateStart()) ||
+						f_date_start.after(reserv.getDateEnd())){
+					System.out.println("Podales date, ktorej nie obejmuje rezerwacja");
+					break;
+				} 
+				else{
+					reserv.setDateStart(f_date_start);
+					reserv.setStatus(ReservationStatus.W_REALIZACJI);
+				}	
 				break;
 			case ZAKONCZONA:
 				int mileage;
 				Bike bike = reserv.getOurBike();
+				Date f_date_end;
+				try{
+					System.out.println("Podaj date oddania (rrrr/mm/dd): ");
+					String d_end = input.next();
+					DateFormat df= new SimpleDateFormat("yyyy/MM/dd");
+					f_date_end = df.parse(d_end);
+				}
+				catch (ParseException e){
+					logger.logp(Level.SEVERE, "BikeRentalApp", "addReservation()", "Type of exception: " + e.getMessage());
+					System.out.println("Zly format daty...!"); 
+					return;
+				}
+				if (f_date_end.before(reserv.getDateStart())){
+					System.out.println("Podales date, ktorej nie obejmuje rezerwacja");
+					break;
+				} 
+				else{
+					reserv.setDateEnd(f_date_end);
+				}	
 				do{
 					System.out.println("Podaj przebieg: ");
 					mileage = input.nextInt();
