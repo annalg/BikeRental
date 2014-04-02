@@ -249,7 +249,7 @@ public class BikeRentalApp {
 	public static void editReservations(Scanner input, RecordManager<Reservation> reservations_book, 
 			RecordManager<Client> clients_book, RecordManager<Bike> bikes_book){
 		String action2 = "0";
-		while (!action2.equals("10")){
+		while (!action2.equals("11")){
 			System.out.println("\nTryb edycji rezerwacji.");
 			System.out.println("Wybierz z menu nr czynnosci:");
 			System.out.println("1 - dodaj rezerwacje");
@@ -261,7 +261,8 @@ public class BikeRentalApp {
 			System.out.println("7 - pokaz rezerwacje o danym id");
 			System.out.println("8 - wypisz aktualne rezerwacje");
 			System.out.println("9 - wypisz archiwum rezerwacji");
-			System.out.println("10 - wroc do menu glownego");
+			System.out.println("10 - wypozycz bez rezerwacji");
+			System.out.println("11 - wroc do menu glownego");
 			
 			action2 = input.next();
 			switch(action2){
@@ -299,7 +300,13 @@ public class BikeRentalApp {
 				showCurrent = false;
 				BikeRentalApp.showAllReservations(input, reservations_book, showCurrent);
 				break;
-			case "10":
+			case "10":	// It should take system date - not a custom-passed date
+				int id = BikeRentalApp.addReservation(input, reservations_book, clients_book, bikes_book);
+				model.Reservation reserv = reservations_book.getRecord(id);
+				reserv.setStatus(ReservationStatus.W_REALIZACJI);
+				System.out.println("Odnotowano wypozyczenie!");
+				break;
+			case "11":
 				break;
 			default:
 				System.out.println("Nie ma takiej pozycji w menu.");
@@ -463,9 +470,10 @@ public class BikeRentalApp {
 		}
 		FormattedTable.line();
 	}
-	public static void addReservation(Scanner input, RecordManager<Reservation> reservations_book,
+	public static int addReservation(Scanner input, RecordManager<Reservation> reservations_book,
 			RecordManager<Client> clients_book, RecordManager<Bike> bikes_book){
-		Client client = null;
+		Reservation reserv = null;
+		Client client;
 		int client_id = 0;
 		try{
 			System.out.println("Podaj id klienta: ");
@@ -473,14 +481,14 @@ public class BikeRentalApp {
 			client = clients_book.getRecord(client_id);
 			if (client == null){
 				System.out.println("Nie ma takiego klienta.");
-				return;
+				return -1;
 			}
 		}
 		catch(InputMismatchException e){
 			logger.logp(Level.SEVERE, "BikeRentalApp", "addReservation()", "Type of exception: " + e.toString());
 			System.out.println("Id jest liczba...!");
 			input.next();			// for input clean up 
-			return;
+			return -1;
 		}
 		Bike bike = null;
 		int bike_id = 0;
@@ -490,14 +498,14 @@ public class BikeRentalApp {
 			bike = bikes_book.getRecord(bike_id);
 			if (bike == null){
 				System.out.println("Nie ma takiego roweru.");
-				return;
+				return -1;
 			}
 		}			
 		catch(InputMismatchException e){
 			logger.logp(Level.SEVERE, "BikeRentalApp", "addReservation()", "Type of exception: " + e.toString());
 			System.out.println("Id jest liczba...!");
 			input.next();			// for input clean up 
-			return;
+			return -1;
 		}
 		Date f_date_start, f_date_end;
 		try{
@@ -510,18 +518,19 @@ public class BikeRentalApp {
 			f_date_end = df.parse(d_end);
 			if (f_date_end.before(f_date_start)){
 				System.out.println("Daty w zlej kolejnosci!"); 
-				return;
+				return -1;
 			}				
 		}
 		catch(ParseException e){
 			logger.logp(Level.SEVERE, "BikeRentalApp", "addReservation()", "Type of exception: " + e.getMessage());
 			System.out.println("Zly format daty...!"); 
-			return;
+			return -1;
 		}
 		try{
 			List<Reservation> reservations_list = reservations_book.getAllRecords();
 			for(Reservation r: reservations_list){
-				if (r.getStatus().equals(ReservationStatus.ANULOWANO)){
+				if (r.getStatus().equals(ReservationStatus.ANULOWANO) ||
+						r.getStatus().equals(ReservationStatus.ZAKONCZONA)){
 					continue;
 				}
 				boolean dateIsAvailable = ((r.getOurBike().getId()!=bike_id) || ((r.getOurBike().getId()==bike_id) &&
@@ -530,14 +539,16 @@ public class BikeRentalApp {
 					throw new BikeNotAvailableException();
 				}				
 			}
-			Reservation reserv = new Reservation(f_date_start, f_date_end, client, bike);
+			reserv = new Reservation(f_date_start, f_date_end, client, bike);
 			reservations_book.add(reserv);
 			System.out.println("Dokonano rezerwacji o id = " + reserv.getId());
 		}
 		catch(BikeNotAvailableException e){
 			logger.logp(Level.SEVERE, "BikeRentalApp", "addReservation()", "Type of exception: " + e.getMessage());
 			System.out.println(e.getMessage());
+			return -1;
 		}
+		return reserv.getId();
 	}
 	public static void editReservation(Scanner input, 
 			RecordManager<Reservation> reservations_book, ReservationStatus status){
@@ -565,15 +576,19 @@ public class BikeRentalApp {
 					logger.logp(Level.SEVERE, "BikeRentalApp", "addReservation()", "Type of exception: " + e.getMessage());
 					System.out.println("Zly format daty...!"); 
 					return;
-				}
-				if (f_date_start.before(reserv.getDateStart()) ||
-						f_date_start.after(reserv.getDateEnd())){
-					System.out.println("Podales date, ktorej nie obejmuje rezerwacja");
-					break;
-				} 
-				else{
+				}	
+				// TO DO: reservations should be invalid if bike was not rent on the first day of it
+				// system date must be checked and reservations which are not finalized should be canceled
+				// at the beginning of application
+				boolean date_is_valid = f_date_start.equals(reserv.getDateStart()); 
+				if (date_is_valid){
 					reserv.setDateStart(f_date_start);
 					reserv.setStatus(ReservationStatus.W_REALIZACJI);
+				} 
+				else{
+					reserv.setStatus(ReservationStatus.ANULOWANO);
+					System.out.println("Podales date, ktorej nie obejmuje rezerwacja");
+					break;
 				}	
 				break;
 			case ZAKONCZONA:
